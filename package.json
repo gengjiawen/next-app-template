@@ -20,6 +20,7 @@
   "dependencies": {
     "@mantine/core": "7.0.0",
     "@mantine/hooks": "7.0.0",
+    "@mantine/notifications": "7.0.0",
     "@next/bundle-analyzer": "^13.4.4",
     "@tabler/icons-react": "^2.20.0",
     "cookies-next": "^2.1.1",
